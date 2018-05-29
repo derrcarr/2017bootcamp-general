@@ -14,3 +14,4 @@ Git is pre-installed on all linux machines. Install git for your laptop from one
 1. [Install for MacOS](https://git-scm.com/download/mac)
 2. [Install for Win](https://git-for-windows.github.io) -- all defaults are fine except you may prefer to decline credential manager
 
+For right now, all we are doing is signing up for and installing git. Once that is done, head over to the Linux tutorial, and we will come back to that later. 
